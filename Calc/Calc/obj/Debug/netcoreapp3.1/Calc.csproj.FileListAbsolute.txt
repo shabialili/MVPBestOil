@@ -1,0 +1,16 @@
+C:\Users\Shebnem\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\Shebnem\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\Users\Shebnem\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\Users\Shebnem\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\Users\Shebnem\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Shebnem\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.Form1.resources
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.GenerateResource.cache
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Shebnem\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\bin\Debug\catalog1111.exe.config
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\bin\Debug\catalog1111.exe
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\bin\Debug\catalog1111.pdb
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\obj\Debug\catalog1111.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\obj\Debug\catalog1111.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\obj\Debug\catalog1111.Properties.Resources.resources
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\obj\Debug\catalog1111.csproj.GenerateResource.cache
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\obj\Debug\catalog1111.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\obj\Debug\catalog1111.exe
+C:\Users\Shebnem\source\repos\catalog1111\catalog1111\obj\Debug\catalog1111.pdb

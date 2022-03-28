@@ -1,0 +1,14 @@
+C:\Users\Shebnem\source\repos\Partial_Class\bin\Debug\netcoreapp3.1\Partial_Class.exe
+C:\Users\Shebnem\source\repos\Partial_Class\bin\Debug\netcoreapp3.1\Partial_Class.deps.json
+C:\Users\Shebnem\source\repos\Partial_Class\bin\Debug\netcoreapp3.1\Partial_Class.runtimeconfig.json
+C:\Users\Shebnem\source\repos\Partial_Class\bin\Debug\netcoreapp3.1\Partial_Class.runtimeconfig.dev.json
+C:\Users\Shebnem\source\repos\Partial_Class\bin\Debug\netcoreapp3.1\Partial_Class.dll
+C:\Users\Shebnem\source\repos\Partial_Class\bin\Debug\netcoreapp3.1\Partial_Class.pdb
+C:\Users\Shebnem\source\repos\Partial_Class\obj\Debug\netcoreapp3.1\Partial_Class.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\Partial_Class\obj\Debug\netcoreapp3.1\Partial_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shebnem\source\repos\Partial_Class\obj\Debug\netcoreapp3.1\Partial_Class.AssemblyInfoInputs.cache
+C:\Users\Shebnem\source\repos\Partial_Class\obj\Debug\netcoreapp3.1\Partial_Class.AssemblyInfo.cs
+C:\Users\Shebnem\source\repos\Partial_Class\obj\Debug\netcoreapp3.1\Partial_Class.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\Partial_Class\obj\Debug\netcoreapp3.1\Partial_Class.dll
+C:\Users\Shebnem\source\repos\Partial_Class\obj\Debug\netcoreapp3.1\Partial_Class.pdb
+C:\Users\Shebnem\source\repos\Partial_Class\obj\Debug\netcoreapp3.1\Partial_Class.genruntimeconfig.cache

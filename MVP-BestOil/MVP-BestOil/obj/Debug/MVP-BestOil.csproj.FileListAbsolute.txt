@@ -1,0 +1,11 @@
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\bin\Debug\MVP-BestOil.exe.config
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\bin\Debug\MVP-BestOil.exe
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\bin\Debug\MVP-BestOil.pdb
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\obj\Debug\MVP-BestOil.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\obj\Debug\MVP-BestOil.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\obj\Debug\MVP_BestOil.Properties.Resources.resources
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\obj\Debug\MVP_BestOil.Views.MainView.resources
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\obj\Debug\MVP-BestOil.csproj.GenerateResource.cache
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\obj\Debug\MVP-BestOil.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\obj\Debug\MVP-BestOil.exe
+C:\Users\Shebnem\source\repos\MVP-BestOil\MVP-BestOil\obj\Debug\MVP-BestOil.pdb
